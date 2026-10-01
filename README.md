@@ -88,5 +88,5 @@ codex
 
 ## 参考
 
-- [腾讯云开发者社区：《最新版 Codex/ChatGPT/cc-switch 完全上手教程》](https://cloud.tencent.com/developer/article/2706846)（本文要点来源）
-- [OpenAI Codex 官方文档](https://developers.openai.com/codex/)
+- https://cloud.tencent.com/developer/article/2706846
+- https://developers.openai.com/codex/
